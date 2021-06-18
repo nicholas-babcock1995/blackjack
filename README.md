@@ -1,7 +1,9 @@
 # blackjack
 practice project based on blackjack
 
-Project Team
-*Owen (owner)
-*Alice ( collaborator)
-*Bob (collaborator)
+
+
+
+* owner nick 
+* co-owner joe
+* co owner hongyi
